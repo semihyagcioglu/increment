@@ -18,7 +18,9 @@ We need more of this type of lessons learned concepts and they should be introdu
 
 Unlearning is not an easy process. Why do we let go our hardly earned knowledge or gathered skill? How to do that, is another thing, but let's focus on why should we unlearn.[^unlearn-ref1]
 
-Our experiences makes us what we are now. The random thoughts, the accidents, the tears and the laughs. You can't undo experiences—try undoing your last tear. We can however unlearn what we thought was best and replace it with another best. Pretty simple, yes. The application may not be that simple. Most of us stagger changing ideas, shifting through one thought to an opposite may be difficult. Especially engineers are thought to think in a prescribed way, and solve problems the way that would be best. Anything beyond that would not be acceptable  at least to some degree. Anything broken, the server failed. We already have an idea about what could have gone wrong. Putting the newly acquired information to a part of the puzzle may sometimes work. What if the part you choose belong to a different puzzle? What if there is no proper place to put that part into the existing puzzle? You should start asking questions, why doesn't this fit here, how can I fit this here. Try removing a few puzzle parts and placing the new one to test if it would fit.
+Our experiences makes us what we are. The random thoughts, the accidents, the tears and the laughs. You can't undo experiences—try undoing your last tear. We can however unlearn what we thought was best and replace it with another best. Pretty simple, yes. The application may not be that simple. Most of us stagger changing ideas, shifting through one thought to an opposite may be difficult. Most of us are taught to think in a prescribed way, and solve problems as they *should be* solved. If something is broken, we already have an idea about what could have gone wrong. We think, decide, act based on our former learnings.
+
+Putting the newly acquired information to a part of the puzzle may sometimes work. What if the part we choose belongs to a different puzzle? What if there is no proper place to put that part into the existing puzzle? We should start asking questions and at least try removing a few parts, in order to see if the part in question could fit into the whole picture.
 
 We need to unlearn stuff pretty fast. When we make mistakes, when a way you use to solve problems doesn't work anymore, consider getting rid of it. Start redefining things, not when they start failing you, but before. Having the pile of thoughts, point of views is not necessarily a bad thing, but when you start losing the ability to change them, if the *lessons learned* can not be *relearned*, then there is a big problem.
 
@@ -28,4 +30,4 @@ We need to unlearn stuff pretty fast. When we make mistakes, when a way you use 
 
 [^unlearn-ref1]: Ref. here. can't recall the actual work.
 
-{pagebreak} 
+{pagebreak}
