@@ -24,10 +24,12 @@ Putting the newly acquired information to a part of the puzzle may sometimes wor
 
 We need to unlearn stuff pretty fast. When we make mistakes, when a way you use to solve problems doesn't work anymore, consider getting rid of it. Start redefining things, not when they start failing you, but before. Having the pile of thoughts, point of views is not necessarily a bad thing, but when you start losing the ability to change them, if the *lessons learned* can not be *relearned*, then there is a big problem.
 
+It is hard to remove the effect of environment from what we learn. We absorb the information and experiences and where these take place is important. Which also means, when the environment change, the learnings may not be valid any more. When you team members change, nothings is same. When your company or project change, you can't rely on the former learnings. You need to unlearn the things and start relearning, since most of these learnings were already an adaptation to a new environment. In project management, a project is described as unique. If you want to *redo* the same project over and over, something will be different each time. The environment, the people, the cash flow, the lessons, etc. 
+
 ####Notes
 
 [^vygotskyzpd]: Vygotsky's zone of proximal development help us understand how we accomplish more with or without aid.
 
 [^unlearn-ref1]: Ref. here. can't recall the actual work.
 
-{pagebreak}
+{pagebreak} 
