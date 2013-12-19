@@ -53,4 +53,4 @@ I try to do one thing for me no matter how tired I am. Reading a book, watching 
 
 [3] [ZenPen](http://www.zenpen.io/) is the ultimate minimalist web app I found so far for writing. I just write and save as markdown to continue writing offline.
 
-**Thanks** to Kevin McKeown for inspiring me to write this.
+**Thanks** to Kevin McKeown for inspiring me to write this and Evrim Doğanyiğit for reading drafts of this.
