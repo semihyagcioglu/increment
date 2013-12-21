@@ -14,7 +14,7 @@ I don't do multitasking. Multitasking is poisonous. I do one thing at a time.
 
 I always prioritirize. I live by the words of Mark Twain, “Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.”
 
-Both at work and at my personal life I apply inbox zero rule.[1] If there is any mail pending in my inbox, I do three things. I either reply it, delete it, or delegate it. Subsequently, if I am done with it, I send it to archive.
+Both at work and at my personal life I apply inbox zero rule.[1] If there is any email pending in my inbox, I do three things. I either reply it, delete it, or delegate it. Subsequently, if I am done with it, I send it to archive.
 
 Whatever I do, I try to focus as best as I can. To do so, I try to remove all the clutter, and all distractions while I am working. This is the only way I can work on what really matters.
 
