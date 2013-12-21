@@ -30,7 +30,9 @@ I prefer eating out, whenever possible. It is both refreshing and also helps me 
 
 **Note-taking**
 
-For taking notes I use a squared Moleskine notebook and a black pen. I developed an adaptation of bullet journal.[3] I try to save every bit of useful information. It is always surprising to see something you already forgot when you go back to your older notes. For years I used mobile or laptop to take notes beside paper notes, however it became painful to manage these notes without a proper structure. So, I developed a framework to manage the notes I take. Mobile note-taking is great. But at some point it is either rude or not convenient to use a laptop or a mobile phone to take notes. People would think you are sending a text or just checking email if you are in a meeting. So, I started carrying a small notebook with me. Although it is not always very easy to carry an additional notebook with you, it became essential for me. Especially, I keep it bed side. You can't know when ideas would come.
+For taking notes I use a squared Moleskine notebook and a black pen. I developed an adaptation of bullet journal.[3] I try to save every bit of useful information. It is always surprising to see something you already forgot when you go back to your older notes. 
+
+For years I used mobile or laptop to take notes beside paper notes, however it became painful to manage these notes without a proper structure. So, I developed a framework to manage the notes I take. Mobile note-taking is great. But at some point it is either rude or not convenient to use a laptop or a mobile phone to take notes. People would think you are sending a text or just checking email if you are in a meeting. So, I started carrying a small notebook with me. Although it is not always very easy to carry an additional notebook with you, it became essential for me. Especially, I keep it bed side. You can't know when ideas would come.
 
 **Tools**
 
