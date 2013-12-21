@@ -36,7 +36,7 @@ For years I used mobile or laptop to take notes beside paper notes, however it b
 
 **Tools**
 
-I use Evernote to jot down any piece of ideas. I use it whenever possible. From all my devices. I digitalize any physical stuff as best as I can to avoid clutter and save them to Evernote.
+I use Evernote to jot down any piece of ideas. I use it whenever possible. From all my devices. I digitize any physical stuff as best as I can to avoid clutter and save them to Evernote.
 
 I use GitHub for all my projects, even for my writings.
 
