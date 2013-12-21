@@ -64,6 +64,6 @@ I try to do one thing for me no matter how tired I am. Reading a book, watching 
 
 [4] [ZenPen](http://www.zenpen.io/) is the ultimate minimalist web app I found so far for writing. It helps you to focus on the content. I just write and save as markdown to continue writing offline.
 
-[5] [LaTeX](http://www.latex-project.org/) is a treat for your eyes. Every time I see a document, either printed or not I notice if it is written in LaTeX. It is that good.
+[5] [LaTeX](http://www.latex-project.org/) is a treat for your eyes. Every time I see a document, either printed or not, I will notice if it is written in LaTeX. It is that good.
 
 **Thanks** to Kevin McKeown for inspiring me to write this, and Evrim Doğanyiğit, Aykut Aras, and Mehmet Kordacı for reading drafts of this.
