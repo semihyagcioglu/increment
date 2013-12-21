@@ -24,7 +24,9 @@ I give small breaks, and in these breaks I do whatever I like, enjoying a coffee
 
 **Eating**
 
-I do not like eating alone. I always eat with friends and colleagues.
+I do not like eating alone. I always eat with friends and colleagues. This is a great way to connect with people. Talking about small stuff, ideas, projects helps you catch up. It doesn't matter how busy you are. After all, we all eat. 
+
+I prefer eating out, whenever possible. It is both refreshing and also helps me clear my mind.
 
 **Note-taking**
 
@@ -36,9 +38,7 @@ I use Evernote to jot down any piece of ideas. I use it whenever possible. From 
 
 I use GitHub for all my projects, even for my writings.
 
-I love writing. I use ZenPen web app for writing and use a markdown editor for editing.[4] It displays very cool.
-
-I use Latex for academic writing or whenever I need something fancy looking.
+I love writing. I use ZenPen web app for writing and use a markdown editor for editing.[4] It is simple, and looks great. I use Latex for academic writing or whenever I need something fancy looking.
 
 I read articles via RSS. I do a little bit Twitter. I don't do Facebook.
 
@@ -62,6 +62,6 @@ I try to do one thing for me no matter how tired I am. Reading a book, watching 
 
 [3] [Bullet journal](http://www.bulletjournal.com/) is a great method if you fancy note-taking and making lists.
 
-[4] [ZenPen](http://www.zenpen.io/) is the ultimate minimalist web app I found so far for writing. I just write and save as markdown to continue writing offline.
+[4] [ZenPen](http://www.zenpen.io/) is the ultimate minimalist web app I found so far for writing. It helps you to focus on the content. I just write and save as markdown to continue writing offline.
 
 **Thanks** to Kevin McKeown for inspiring me to write this, and Evrim Doğanyiğit, Aykut Aras, and Mehmet Kordacı for reading drafts of this.
