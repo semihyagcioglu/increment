@@ -38,7 +38,7 @@ I use Evernote to jot down any piece of ideas. I use it whenever possible. From 
 
 I use GitHub for all my projects, even for my writings.
 
-I love writing. I use ZenPen web app for writing and use a markdown editor for editing.[4] It is simple, and looks great. I use Latex for academic writing or whenever I need something fancy looking.
+I love writing. I use ZenPen web app for writing and use a markdown editor for editing.[4] It is simple, and looks great. I use LaTeX for academic writing or whenever I need something fancy looking.[5]
 
 I read articles via RSS. I do a little bit Twitter. I don't do Facebook.
 
@@ -63,5 +63,7 @@ I try to do one thing for me no matter how tired I am. Reading a book, watching 
 [3] [Bullet journal](http://www.bulletjournal.com/) is a great method if you fancy note-taking and making lists.
 
 [4] [ZenPen](http://www.zenpen.io/) is the ultimate minimalist web app I found so far for writing. It helps you to focus on the content. I just write and save as markdown to continue writing offline.
+
+[5] [LaTeX](http://www.latex-project.org/) is a treat for your eyes. Every time I see a document, either printed or not I notice if it is written in LaTeX. It is that good.
 
 **Thanks** to Kevin McKeown for inspiring me to write this, and Evrim Doğanyiğit, Aykut Aras, and Mehmet Kordacı for reading drafts of this.
