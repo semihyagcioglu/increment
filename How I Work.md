@@ -1,10 +1,10 @@
 #How I Work#
 
-Over the years I have developed a routine that I follow every day. I hope it may inspire some people.
+Over the years, I have developed a routine that I follow every day. I hope it may inspire some people.
 
 **Morning routine**
 
-I wake up around 6:00 to 6:30. No alarms. I have to wake up by myself. I have breakfast around 7:00. I workout for 15 to 30 minutes. Before going to work, I try to find the most important three tasks to be accomplished that day.
+I wake up around 6:00 to 6:30. No alarms. I have to wake up by myself. I have breakfast around 7:00. I workout for 15 to 30 minutes. Before going to work, I try to find the three most important tasks to be accomplished that day.
 
 Mornings are quiet. I focus better and accomplish more in the mornings. So, I try to cross of as many tasks as I can before going to work.
 
@@ -12,21 +12,21 @@ Mornings are quiet. I focus better and accomplish more in the mornings. So, I tr
 
 I don't do multitasking. Multitasking is poisonous. I do one thing at a time.
 
-I always prioritirize. I live by the words of Mark Twain, “Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.”
+I always prioritirize. I live by the words of Mark Twain, “Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.” [0]
 
-Both at work and at my personal life I apply inbox zero rule.[1] If there is any email pending in my inbox, I do three things. I either reply it, delete it, or delegate it. Subsequently, if I am done with it, I send it to archive.
+Both at work and at my personal life I apply inbox zero rule.[1] If there is any email pending in my inbox, I do three things. I either reply to it, delete it, or delegate it. Subsequently, if I am done with it, I archive it.
 
 Whatever I do, I try to focus as best as I can. To do so, I try to remove all the clutter, and all distractions while I am working. This is the only way I can work on what really matters.
 
-I work in blocks, and use pomodoro technique, which helps me focus on the current task.[2] I try not to interrupt what I am doing, until I finish. You will be amazed to see how much you can accomplish if you give yourself to a task for 20 minute without any distraction. This motivates me a lot and keeps me sane. I turn work into a game by working in small bursts and completing one task at a time.
+I work in blocks and use the pomodoro technique, which helps me focus on the current task.[2] I try not to interrupt what I am doing until I finish. You will be amazed to see how much you can accomplish if you give yourself to a task for 20 minutes without any distraction. This motivates me a lot and keeps me sane. I turn work into a game by working in small bursts and completing one task at a time.
 
-I give small breaks, and in these breaks I do whatever I like, enjoying a coffee with my friends, reading on Quora and Stackoverflow are my favorite break time activities.
+I take small breaks, and in these breaks I do whatever I like. Enjoying a coffee with my friends or reading on Quora and Stack Overflow are my favorite break time activities.
 
 **Eating**
 
 I do not like eating alone. I always eat with friends and colleagues. This is a great way to connect with people. Talking about small stuff, ideas, projects helps you catch up. It doesn't matter how busy you are. After all, we all eat. 
 
-I prefer eating out, whenever possible. It is both refreshing and also helps me clear my mind.
+I prefer eating out, whenever possible. It is refreshing and helps me clear my mind.
 
 **Note-taking**
 
@@ -54,9 +54,11 @@ I review my notes before I go to sleep. Both the paper notes I have taken during
 
 I plan the next day after reviewing my notes. Knowing what to work on next lifts a heavy weight on my shoulders. 
 
-I try to do one thing for me no matter how tired I am. Reading a book, watching a TV show or writing is among my favorite things. This is very important for me and I try to keep it that way.
+I try to do one thing *for me* no matter how tired I am. Reading a book, watching a TV show or writing is among my favorite things. This is very important for me and I try to keep it that way.
 
 **Notes**
+
+[0] Despite tradition, the quote may have not actually been authored by Mr. Twain. See [Quote Investigator](http://quoteinvestigator.com/2013/04/03/eat-frog/).
 
 [1] [Inbox zero](http://inboxzero.com/) is an approach in which you try to clear your inbox and remove all the clutter.
 
