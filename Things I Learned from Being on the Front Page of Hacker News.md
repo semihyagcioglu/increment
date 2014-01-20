@@ -12,7 +12,7 @@ I have an ultimate goal while writing. After all, it should be an interesting jo
 
 If I can do this, I will perish.
 
-Audience
+**Audience**
 
 Hacker News is a community where readers are mainly from tech world. If you submit an article, and the community finds it interesting then you will get upvotes. If not then your submission will not be noticed [by most of the community].
 
@@ -20,7 +20,7 @@ If you get enough upvotes, you will be on the front page where thousands of peop
 
 You can also ask Hacker News and get feedback. But that's another story.
 
-Comments
+**Comments**
 
 Simply, an individual has a single vote. If the readers like what you share, you will get upvotes. The comments however are different. You can benefit a lot from them.
 
@@ -41,7 +41,7 @@ I don't judge comments as being positive or negative. I consider them as being h
 
 I have benefited from all the comments, as long as they are constructive.
 
-Side effects
+**Side effects**
 
 Being on the spotlight has some side effects. In my case — up to this point — they were all positive. I got precious feedback on different channels. Twitter was the most direct one to engage with readers. Tumblr also helped a lot, since sharing was very easy for readers. The whole process was very fruitful to discover interesting people. [xnocontact]
 
@@ -49,7 +49,7 @@ Being on the spotlight has some side effects. In my case — up to this point �
 
 [I also got promoted on Pocket, which also brought new readers.]
 
-Technical aspects
+**Technical aspects**
 
 Hacker News has an enourmous reader base. As per my analysis, they use diverse technologies to access your content. That being said, your understanding of your content and your readers' may be completely different. [xdiv]
 
@@ -57,15 +57,15 @@ The best part of having many visitors to your content is, that you learn a lot i
 
 Analyzing the technology used by different visitors, helped me further pinpoint a few issues I didn't know existed. [xbrowser]
 
-Bias
+**Bias**
 
-There is a bias here. We don't know the unknown unkowns. I am telling this story based on my experience. This doesn't necessarily mean that I was on the front page since my writing was great. This is just a postmortem. I am just telling this story because I wish I had known things before I made to the front page. I am sure that I lost several readers just because the reading experience sucked. I am sorry for that.
+There is a bias here. [We don't know the unknown unkowns.] I am telling this story based on my experience. This doesn't necessarily mean that I was on the front page since my writing was [great]. This is just a postmortem. I am just telling this story because I wish I had known things before I made to the front page. I am sure that I lost several readers just because the reading experience sucked. I am sorry for that.
 
 If your submission is good and could not make to the front page, it would go unnoticed. There are stories to be told. Some could go unnoticed. Alas there is no framework to fix that. We rely solely on the judgment of online readers at the time of the submission.
 
 If you believe that you have a story to be told. Don't just give up. This is what I wish I had known before making to the front page.
 
-Conclusion
+**Conclusion**
 
 I didn't make any money. It is OK, it was not what I was looking for, but I learned a lot in the process. All from the readers, directly or indirectly. I also got thousands of visitors and hundreds of regular readers, which I believe is the best thing a writer could ask for.
 
@@ -73,7 +73,7 @@ If you put your work out and be vulnerable, people would go out of their way to 
 
 This is why having an audience almost always matters.
 
-Notes
+**Notes**
 
 [xrighttime] It is OK to follow a trail, but at the same time you should let some ideas rest.
 
