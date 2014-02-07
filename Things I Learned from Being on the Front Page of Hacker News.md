@@ -93,4 +93,4 @@ This is why having an audience almost always matters.
 
 [xthousands] There is actually no guarantee here. It was what I experienced.
 
-Thanks to Mehmet Kordacı for reading drafts of this.
+**Thanks** to Mehmet Kordacı for reading drafts of this.
