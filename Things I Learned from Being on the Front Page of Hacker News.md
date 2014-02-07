@@ -2,15 +2,15 @@ Having an audience almost always matters.
 
 If you are writing, it is important to have an audience. If it is a talk, you generally know who the audience is. Writing is different. You write. Then rewrite. You have the opportunity to craft your writing. You do not have this luxury in speaking—in most cases you have only one shot.
 
-Writing with an audience in mind, changes everything. It helps you to form and improve your thinking. Your audience changes how you convey your ideas. You will probably not write the same if your audience is first graders or academics. But, how will you know your audience if you don't ever meet them? I have no way of knowing this. I do know one thing though, writing is the greatest invention in the history. You may be read in a year, or in a hundread years.
+Writing with an audience in mind, changes everything. It helps you to form and improve your thinking. How you convey your ideas is closely related to who your audience is. But, how will you know your audience if you don't ever meet them? I have no way of knowing this. I do know one thing though, writing is the greatest invention in the history. You may well be read in a year, or in a hundread years.
 
-Writing is fair. You have readers. If they like what you write, you will perish. If they don't, you won't.
+Writing is fair. You have readers. If they like what you write, you will exist. If they don't, you won't.
 
-Besides forming your ideas, writing also teaches you how to cut to the chase. I follow a simple framework. First, I remove or rewrite any part if I don't think I would enjoy as a reader. Second, I try to get to the point at the right time. [xrighttime] 
+Besides forming your ideas, writing also teaches you how to cut to the chase. I follow a simple framework. First, I remove or rewrite any part if I think I would not enjoy as a reader. Second, I try to get to the point at the right time. [xrighttime] 
 
 I have an ultimate goal while writing. After all, it should be an interesting journey for both the reader and the writer. So, I am going to try to make it interesting and at the same time convince you with my arguments.
 
-If I can do this, I will perish.
+If I can do this, I will exist.
 
 **Audience**
 
@@ -24,7 +24,7 @@ You can also ask Hacker News and get feedback. But that's another story.
 
 Simply, an individual has a single vote. If the readers like what you share, you will get upvotes. The comments however are different. You can benefit a lot from them.
 
-People will make comments if they feel like it. The great thing about comments is, people will share their opinion or make some points. This is possibly the best place to meet with amazing people.
+The great thing about comments is, you have the opportunity to have a different angle when people share their opinion or make some points. [This is possibly the best place to meet with amazing people.]
 
 Time is the best thing a reader can offer you.
 
@@ -53,7 +53,7 @@ Being on the spotlight has some side effects. In my case — up to this point �
 
 Hacker News has an enourmous reader base. As per my analysis, they use diverse technologies to access your content. That being said, your understanding of your content and your readers' may be completely different. [xdiv]
 
-The best part of having many visitors to your content is, that you learn a lot in the process. I noticed that there was a page load time issue. I was able to reduce page load time by 600% to around 2 seconds. [xgtmetrix]
+The best part of having many readers is, you learn a lot in the process. One thing I noticed was, the pages were taking too long to load, however I was able to reduce page load time by 600% to around 2 seconds. [xgtmetrix]
 
 Analyzing the technology used by different visitors, helped me further pinpoint a few issues I didn't know existed. [xbrowser]
 
@@ -92,3 +92,5 @@ This is why having an audience almost always matters.
 [nocontact] There were readers I wish I was able to connect, or at least get back. But due to lack of information, I was not able to.
 
 [xthousands] There is actually no guarantee here. It was what I experienced.
+
+Thanks to Mehmet Kordacı for reading drafts of this.
