@@ -10,13 +10,13 @@ Writing is fair. You have readers. If they like what you write, you will exist. 
 
 Besides forming your ideas, writing also teaches you how to cut to the chase. I follow a simple framework. First, I remove or rewrite any part if I think I would not enjoy as a reader. Second, I try to get to the point at the right time. [xrighttime] 
 
-I have an ultimate goal while writing. After all, it should be an interesting journey for both the reader and the writer. So, I am going to try to make it interesting and at the same time convince you with my arguments.
+I have an ultimate goal while writing. After all, it should be an interesting journey for both the reader and the writer. So, I will try to make it interesting and convincing.
 
 If I can do this, I will exist.
 
 **Audience**
 
-Hacker News is a community where readers are mainly from tech world. If you submit an article, and the community finds it interesting then you will get upvotes. If not then your submission will not be noticed [by most of the community].
+Hacker News is a community where readers are mainly from tech world. If you submit an article that readers find interesting, you will get upvotes. If not, your submission will get unnoticed.
 
 If you get enough upvotes, you will be on the front page where thousands of people will see your submission. [xthousands] How long you will stay on the front page is determined by readers. [fn:fp]
 
@@ -26,15 +26,13 @@ You can also ask Hacker News and get feedback. But that's another story.
 
 Simply, an individual has a single vote. If the readers like what you share, you will get upvotes. The comments however are different. You can benefit a lot from them.
 
-The great thing about comments is, you have the opportunity to have a different angle when people share their opinion or make some points. [This is possibly the best place to meet with amazing people.]
+The great thing about comments is, you have the opportunity to have a different angle—if you know how to listen. This is also possibly the best place to meet with amazing people—it was in my case.
 
-Time is the best thing a reader can offer you.
+Time is the best thing a reader can offer you, among all other things.
 
 Readers simply use their valuable time to read what you wrote. As a reader, I would think — whatever I read — it must be worth it. 
 
-Some readers however, go beyond reading and help you improve your work by taking the time to comment on your writings. I for myself, met with several amazing people by just sharing my writings on Hacker News. That being said, one of the commenters, took the time to fork my writing and proposed some changes for it. [xce] This was something I was not expecting.
-
-[It is interesting to see that there may be completely different comments. Here's a comment thread about one of my submissions.]
+Some readers however, go beyond reading and help you improve your work by taking the time to comment on your writings. I for myself, met with several amazing people by just sharing my writings on Hacker News. That being said, one of the commenters, took the time to fork my writing and proposed some changes for it. [xce] This was something I was not expecting. I also did not expect to see that there may be completely different comments. Here's a comment thread about one of my submissions.
 
 — This is the saddest thing I've ever read. (moeedm)
 — On the other hand this is one of the best things I've ever read. (Marwy)
@@ -45,15 +43,15 @@ I have benefited from all the comments, as long as they are constructive.
 
 **Side effects**
 
-Being on the spotlight has some side effects. In my case — up to this point — they were all positive. I got precious feedback on different channels. Twitter was the most direct one to engage with readers. Tumblr also helped a lot, since sharing was very easy for readers. The whole process was very fruitful to discover interesting people. [xnocontact]
+Being on the spotlight has some side effects. In my case — up to this point — they were all positive. I got precious feedback on different channels. Twitter was the most direct one to engage with readers. Tumblr also helped a lot, since sharing was very easy for readers. The whole process was very fruitful to discover new people, and their works. [xnocontact]
 
 — One of the best "how I work" posts I've ever read. (Dustin Harbin)
 
-[I also got promoted on Pocket, which also brought new readers.]
+I also got promoted on Pocket, which also brought new readers.
 
 **Technical aspects**
 
-Hacker News has an enourmous reader base. As per my analysis, they use diverse technologies to access your content. That being said, your understanding of your content and your readers' may be completely different. [xdiv]
+Hacker News has an enourmous reader base. As per my analysis, these readers use diverse technologies to access your content. That being said, your understanding of your content and your readers' may be completely different. [xdiv]
 
 The best part of having many readers is, you learn a lot in the process. One thing I noticed was, the pages were taking too long to load, however I was able to reduce page load time by 600% to around 2 seconds. [xgtmetrix]
 
@@ -61,15 +59,15 @@ Analyzing the technology used by different visitors, helped me further pinpoint 
 
 **Bias**
 
-There is a bias here. [We don't know the unknown unkowns.] I am telling this story based on my experience. This doesn't necessarily mean that I was on the front page since my writing was [great]. This is just a postmortem. I am just telling this story because I wish I had known things before I made to the front page. I am sure that I lost several readers just because the reading experience sucked. I am sorry for that.
+There is a bias here. I am telling this story based on my experience. This doesn't necessarily mean that I was on the front page since my writing was really great. This is just a postmortem. I am just telling this story because I wish I had known things before I made to the front page. I am sure that I lost several readers just because the reading experience sucked. I am sorry for that.
 
-If your submission is good and could not make to the front page, it would go unnoticed. There are stories to be told. Some could go unnoticed. Alas there is no framework to fix that. We rely solely on the judgment of online readers at the time of the submission.
+If you submit one of your writings and could not make to the front page, don't just give up. There are stories to be told. Some could go unnoticed. Alas there is no framework to fix that. We rely solely on the judgment of online readers at the time of the submission.
 
 If you believe that you have a story to be told. Don't just give up. This is what I wish I had known before making to the front page.
 
 **Conclusion**
 
-I didn't make any money. It is OK, it was not what I was looking for, but I learned a lot in the process. All from the readers, directly or indirectly. I also got thousands of visitors and hundreds of regular readers, which I believe is the best thing a writer could ask for.
+I learned a lot from being on the front page of Hacker News. All from the readers, directly or indirectly. I also got thousands of visitors and hundreds of regular readers, which I believe is the best thing a writer could ask for.
 
 If you put your work out and be vulnerable, people would go out of their way to help you.
 
