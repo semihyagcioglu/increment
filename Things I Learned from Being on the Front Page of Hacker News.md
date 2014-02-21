@@ -1,3 +1,5 @@
+Recently [one of my blog posts](http://www.semihyagcioglu.com/post/70798815261/this-is-how-i-work "This Is How I Work") made to the front page of Hacker News. Here is what I learnt from this.
+
 Having an audience almost always matters. 
 
 If you are writing, it is important to have an audience. If it is a talk, you generally know who the audience is. Writing is different. You write. Then rewrite. You have the opportunity to craft your writing. You do not have this luxury in speaking—in most cases you have only one shot.
