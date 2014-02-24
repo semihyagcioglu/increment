@@ -20,8 +20,6 @@ Hacker News is a community where readers are mainly from tech world. If you subm
 
 If you get enough upvotes, you will be on the front page where thousands of people will see your submission. [xthousands] How long you will stay on the front page is determined by readers. [fn:fp]
 
-You can also ask Hacker News and get feedback. But that's another story.
-
 **Comments**
 
 Simply, an individual has a single vote. If the readers like what you share, you will get upvotes. The comments however are different. You can benefit a lot from them.
@@ -93,4 +91,4 @@ This is why having an audience almost always matters.
 
 [xthousands] There is actually no guarantee here. It was what I experienced.
 
-**Thanks** to Mehmet Kordacı and Ergin Nalçacı for reading drafts of this.
+**Thanks** to Yuval Shoshan, Mehmet Kordacı and Ergin Nalçacı for reading drafts of this.
