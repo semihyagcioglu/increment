@@ -1,4 +1,4 @@
-Recently [one of my blog posts](http://www.semihyagcioglu.com/post/70798815261/this-is-how-i-work "This Is How I Work") made to the front page of Hacker News. Here is what I learnt from this.
+Recently, [one of my blog posts](http://www.semihyagcioglu.com/post/70798815261/this-is-how-i-work "This Is How I Work") made to the front page of Hacker News. Here is what I learnt from this.
 
 Having an audience almost always matters. 
 
@@ -8,9 +8,9 @@ Writing with an audience in mind, changes everything. It helps you to form and i
 
 Writing is fair. You have readers. If they like what you write, you will exist. If they don't, you won't.
 
-Besides forming your ideas, writing also teaches you how to cut to the chase. I follow a simple framework. First, I remove or rewrite any part if I think I would not enjoy as a reader. Second, I try to get to the point at the right time. [xrighttime] 
+Besides forming your ideas, writing teaches to cut to the chase. For this, I follow a simple framework. First, I remove or rewrite any part, if I think I would not enjoy as a reader. Second, I try to get to the point at the right time. [xrighttime] 
 
-I have an ultimate goal while writing. After all, it should be an interesting journey for both the reader and the writer. So, I will try to make it interesting and convincing.
+I have an ultimate goal while writing. I will try to convince you and make it interesting. After all, it should be an interesting journey for both the reader and the writer.
 
 If I can do this, I will exist.
 
