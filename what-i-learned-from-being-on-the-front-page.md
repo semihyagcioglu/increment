@@ -1,6 +1,8 @@
 ###What I Learned from Being on the Front Page
 
-A while ago, [one of my blog posts](http://www.semihyagcioglu.com/post/70798815261/this-is-how-i-work "This Is How I Work") made it to the front page of Hacker News. Here is what I learned from this.
+March 2014
+
+Recently [one of my blog posts](http://www.semihyagcioglu.com/post/70798815261/this-is-how-i-work "This Is How I Work") made it to the front page of Hacker News. Here is what I learned from this.
 
 Having an audience almost always matters. 
 
