@@ -52,13 +52,13 @@ This is why having an audience almost always matters.
 
 [fn:fp] There may be other factors that I am not aware of. The algorithm is not public.
 
-[xce] I draft my writings on GitHub and you may easily suggest styling or fix errata by just forking my repository. [In this case the commentor and the contributer was Chris Elwell.]
+[xce] I draft my writings on GitHub and you may easily suggest styling or fix errata by just forking my repository.
 
-[xdiv] This is serious. In technical terms what you experience may not be what your readers experience due to different resolutions and technologies your readers use. [responsinator ref?]
+[xdiv] This is serious. In technical terms what you experience may not be what your readers experience due to different resolutions and technologies your readers use.
 
 [fn:comments] There are also mean comments, which is widely discussed on Hacker News. I am not talking about the negative comments. Negative comments can be very empowering in the sense that they would attack the weakest parts in your writing. However, this is not the case. This also does not necessarily mean that my writings are very good and negative comments are due to this detorioration. Nevertheless, I find some of the comments very rude.
 
-[xgtmetrix] I used [gtmetrix] and [pagespeed] in optimizing the requests and reducing the page load time. I was able to reduce the page size around 400KB and http requests to around 40. This made a huge impact on the reading experience.
+[xgtmetrix] I used [gtmetrix] and [pagespeed] to optimize the requests and reduce the page load time. I was able to reduce the page size around 400KB and http requests to around 40. This made a huge impact on the reading experience.
 
 [xbrowsers] Analyzing user behaviors made me aware of different devices and screen sizes. This may seem no brainer but if you don't know where to look, it is hard to notice you have an issue. This helped me realize many readers use tablets and when they read it in vertical mode the reading suffered. I wasn't aware of it, but I fixed it now.
 
