@@ -26,7 +26,7 @@ Being on the spotlight has some side effects. In my case â€” up to this point â€
 
 **Technical aspects**
 
-Technically speaking, readers use different technologies to access your content. That being said, your understanding of *your* content and your readers' may be completely different. [xdiv]
+Technically speaking, readers use different technologies to access your content. That being said, your understanding of *your* content and your readers' might be completely different. [xdiv]
 
 The best part of having many readers is, you learn a lot in the process. One thing I noticed was, the pages were taking too long to load, however I was able to reduce page load time by 600% to around 2 seconds. [xgtmetrix] Analyzing the technology used by different visitors, helped me further pinpoint a few issues I didn't know existed. [xbrowser]
 
@@ -34,9 +34,7 @@ The best part of having many readers is, you learn a lot in the process. One thi
 
 There is a bias here. I am telling this story based on my experience. This doesn't necessarily mean that I was on the front page since my writing was really great. This is just a postmortem. I am just telling this story because I wish I had known things before I made to the front page. I am sure that I lost several readers just because the reading experience sucked. I am sorry for that.
 
-If you share one of your writings and could not get readers, don't just give up. There are stories to be told. Some could go unnoticed. Alas there is no framework to fix that. 
-
-If you believe that you have a story to be told. Just keep writing. This is what I wish I had known before making to the front page.
+If you share one of your writings and could not get readers, don't just give up. There are stories to be told. Some could go unnoticed. Alas there is no framework to fix that. If you believe that you have a story to be told. Just keep writing. This is what I wish I had known before making to the front page.
 
 **Conclusion**
 
@@ -44,7 +42,7 @@ I learned a lot from being on the front page of Hacker News. All from the reader
 
 Writing with an audience in mind, changes everything. It helps you to form and improve your thinking. Your audience determines how you convey your ideas. But, how will you know your audience if you don't ever meet them? I have no way of knowing this. I do know one thing though, writing is the greatest invention in the history. You may well be read in a year, or in a hundread years.
 
-Writing is fair. You have readers. If they like what you write, you will exist. If they don't, you won't. If you put your work out, some people would criticize you and some of them would go out of their way to help you. This will make your work better.
+Writing is fair. You have readers. If they like what you write, you will exist. If they don't, you won't. If you put your work out, some people would criticize you but some of them would go out of their way to help you. This will make your work better.
 
 This is why having an audience almost always matters.
 
