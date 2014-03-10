@@ -2,49 +2,33 @@
 
 March 2014
 
-Recently [one of my blog posts](http://www.semihyagcioglu.com/post/70798815261/this-is-how-i-work "This Is How I Work") made it to the front page of Hacker News. Here is what I learned from this.
-
-Having an audience almost always matters. 
+Recently [one of my blog posts](http://www.semihyagcioglu.com/post/70798815261/this-is-how-i-work "This Is How I Work") made it to the front page of Hacker News. Here is what I learned from this. Having an audience almost always matters. If you are writing, it is important to have an audience. Audience keeps you in shape.
 
 **Audience**
 
-Hacker News is a community where readers are mainly from tech world. If you submit an article that readers find interesting, you will get upvotes. If not, your submission will get unnoticed.
-
-If you get enough upvotes, you will be on the front page where thousands of people will see your submission. [xthousands] How long you will stay on the front page is determined by readers. [fn:fp]
+Hacker News is a community where readers are mainly from tech world. If you submit an article that readers find interesting, you will get upvotes. If not, your submission will get unnoticed. If you get enough upvotes, you will be on the front page where thousands of people will see your submission. [xthousands] How long you will stay on the front page is determined by readers. [fn:fp]
 
 **Comments**
 
-Time is the best thing a reader can offer you, among all other things.
-
-Readers simply use their valuable time to read what you wrote. As a reader, I would think — whatever I read — it must be worth it. 
-
-Some readers, however, go beyond reading and help you improve your work by taking the time to make comments. I for myself, met with several amazing people by just sharing what I write. That being said, one of the commenters on Hacker News, took the time to fork my writing and proposed some changes for it. [xce] This was something I was not expecting. I also find interesting to see that sometimes there may be completely different angles. Here's a comment thread about one of my posts.
+Time is the best thing a reader can offer you, among all other things. Readers simply use their valuable time to read what you wrote. As a reader, I would think — whatever I read — it must be worth it. Some readers, however, go beyond reading and help you improve your work by taking the time to make comments. I for myself, met with several amazing people by just sharing what I write. That being said, one of the commenters on Hacker News, took the time to fork my writing and proposed some changes for it. [xce] This was something I was not expecting. I also find interesting to see that sometimes there may be completely different angles. Here's a comment thread about one of my posts.
 
 — This is the saddest thing I've ever read. (moeedm)
 
 — On the other hand this is one of the best things I've ever read. (Marwy)
 
-I don't judge comments as being positive or negative. [fn:comments] I consider them as being helpful or not. The great thing about comments is, you have the opportunity to have a different angle—if you know how to listen.
-
-I have benefited from all the comments, as long as they are constructive.
+I don't judge comments as being positive or negative. [fn:comments] I consider them as being helpful or not. The great thing about comments is, you have the opportunity to have a different angle—if you know how to listen. I have benefited from all the comments, as long as they are constructive.
 
 **Side effects**
 
-Being on the spotlight has some side effects. In my case — up to this point — they were all positive. I got precious feedback on different channels. Twitter was the most direct one to engage with readers. Tumblr also helped a lot, since readers could easily share. 
-
-I met with new people, and learned a  lot about their work, through this process. [xnocontact]
+Being on the spotlight has some side effects. In my case — up to this point — they were all positive. I got precious feedback on different channels. Twitter was the most direct one to engage with readers. Tumblr also helped a lot, since readers could easily share. At some point, I got promoted on Pocket, which also brought several new readers. Thanks to these side effects, I met with new people, and learned a lot about their work. [xnocontact] Here's such a tweet.
 
 — One of the best "how I work" posts I've ever read. (Dustin Harbin)
 
-At some point, I got promoted on Pocket, which also brought several new readers.
-
 **Technical aspects**
 
-Technically speaking, readers use diverse technologies to access your content. That being said, your understanding of your content and your readers' may be completely different. [xdiv]
+Technically speaking, readers use different technologies to access your content. That being said, your understanding of *your* content and your readers' may be completely different. [xdiv]
 
-The best part of having many readers is, you learn a lot in the process. One thing I noticed was, the pages were taking too long to load, however I was able to reduce page load time by 600% to around 2 seconds. [xgtmetrix]
-
-Analyzing the technology used by different visitors, helped me further pinpoint a few issues I didn't know existed. [xbrowser]
+The best part of having many readers is, you learn a lot in the process. One thing I noticed was, the pages were taking too long to load, however I was able to reduce page load time by 600% to around 2 seconds. [xgtmetrix] Analyzing the technology used by different visitors, helped me further pinpoint a few issues I didn't know existed. [xbrowser]
 
 **Bias**
 
@@ -60,9 +44,7 @@ I learned a lot from being on the front page of Hacker News. All from the reader
 
 Writing with an audience in mind, changes everything. It helps you to form and improve your thinking. Your audience determines how you convey your ideas. But, how will you know your audience if you don't ever meet them? I have no way of knowing this. I do know one thing though, writing is the greatest invention in the history. You may well be read in a year, or in a hundread years.
 
-Writing is fair. You have readers. If they like what you write, you will exist. If they don't, you won't.
-
-If you put your work out and be vulnerable, people would go out of their way to help you.
+Writing is fair. You have readers. If they like what you write, you will exist. If they don't, you won't. If you put your work out, some people would criticize you and some of them would go out of their way to help you. 
 
 This is why having an audience almost always matters.
 
