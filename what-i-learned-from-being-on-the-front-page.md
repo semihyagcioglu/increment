@@ -44,7 +44,7 @@ I learned a lot from being on the front page of Hacker News. All from the reader
 
 Writing with an audience in mind, changes everything. It helps you to form and improve your thinking. Your audience determines how you convey your ideas. But, how will you know your audience if you don't ever meet them? I have no way of knowing this. I do know one thing though, writing is the greatest invention in the history. You may well be read in a year, or in a hundread years.
 
-Writing is fair. You have readers. If they like what you write, you will exist. If they don't, you won't. If you put your work out, some people would criticize you and some of them would go out of their way to help you. 
+Writing is fair. You have readers. If they like what you write, you will exist. If they don't, you won't. If you put your work out, some people would criticize you and some of them would go out of their way to help you. This will make your work better.
 
 This is why having an audience almost always matters.
 
@@ -67,4 +67,4 @@ This is why having an audience almost always matters.
 [xthousands] There is actually no guarantee here. It was what I experienced.
 
 
-**Thanks** to Şirin Uzun Ulutaş, Yuval Shoshan, Mehmet Kordacı and Ergin Nalçacı for reading drafts of this.
+**Thanks** to Şirin Uzun Ulutaş, Yuval Shoshan, Mehmet Kordacı, Ergin Nalçacı and Sarp Centel for reading drafts of this.
