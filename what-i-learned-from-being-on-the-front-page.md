@@ -48,7 +48,7 @@ This is why having an audience almost always matters.
 
 **Notes**
 
-[fn:fp] There may be other factors that I am not aware of. The algorithm is not public.
+[fn:fp] There may be other factors that I am not aware of. The algorithm is not public. [It is actually made public by PG : https://news.ycombinator.com/item?id=1781013]
 
 [xce] I draft my writings on GitHub and you may easily suggest styling or fix errata by just forking my repository.
 
