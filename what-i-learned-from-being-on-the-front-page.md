@@ -64,4 +64,5 @@ This is why having an audience almost always matters.
 
 [8] Analyzing user behaviors made me aware of different devices and screen sizes. This may seem no brainer but if you don't know where to look, it is hard to notice you have an issue. This helped me realize many readers use tablets and when they read it in vertical mode the reading suffered. I wasn't aware of it, but I fixed it now.
 
+
 **Thanks** to Şirin Uzun Ulutaş, Mehmet Kordacı, Yuval Shoshan, Ergin Nalçacı and Sarp Centel for reading drafts of this.
