@@ -22,9 +22,7 @@ I don't judge comments as being positive or negative. [[4](#4 "")] I consider th
 
 **Side effects**
 
-Being on the spotlight has some side effects. In my case — up to this point — they were all positive. I got precious feedback on different channels. Twitter was the most direct one to engage with readers. Tumblr also helped a lot, since readers could easily share. At some point, I got promoted on Pocket, which also brought several new readers. Thanks to these side effects, I met with new people, and learned a lot about their work. [[5](#5 "")] Here's such a tweet.
-
-— One of the best "how I work" posts I've ever read. (Dustin Harbin)
+Being on the spotlight has some side effects. In my case — up to this point — they were all positive. I got precious feedback on different channels. Twitter was the most direct one to engage with readers. Tumblr also helped a lot, since readers could easily share. At some point, I got promoted on Pocket, which also brought several new readers. Thanks to these side effects, I met with new people, and learned a lot about their work. [[5](#5 "")]
 
 **Technical aspects**
 
@@ -36,11 +34,11 @@ The best part of having many readers is, you learn a lot in the process. One thi
 
 There is a bias here. I am telling this story based on my experience. This doesn't necessarily mean that I was on the front page since my writing was really great. This is just a postmortem. I am just telling this story because I wish I had known things before I made to the front page. I am sure that I lost several readers just because the reading experience sucked. I am sorry for that.
 
-If you share one of your writings and could not get readers, don't just give up. There are stories to be told. Some could go unnoticed. Alas there is no framework to fix that. If you believe that you have a story to be told. Just keep writing. This is what I wish I had known before making to the front page.
-
 **Conclusion**
 
 I learned a lot from being on the front page of Hacker News. All from the readers, directly or indirectly. I also got thousands of visitors and hundreds of regular readers, which I believe is the best thing a writer could ask for.
+
+If you share one of your writings and could not get readers, don't just give up. There are stories to be told. Some could go unnoticed. Alas there is no framework to fix that. If you believe that you have a story to be told. Just keep writing. This is what I wish I had known before making to the front page.
 
 Writing with an audience in mind, changes everything. It helps you to form and improve your thinking. Your audience determines how you convey your ideas. But, how will you know your audience if you don't ever meet them? I have no way of knowing this. I do know one thing though, writing is the greatest invention in the history. You may well be read in a year, or in a hundread years.
 
