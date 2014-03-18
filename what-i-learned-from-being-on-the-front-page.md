@@ -60,7 +60,7 @@ This is why having an audience almost always matters.
 
 [6] This is serious. In technical terms what you experience may not be what your readers experience due to different resolutions and technologies your readers use.
 
-[7] I used [GTmetrix](http://gtmetrix.com/ "GTMetrix") and [PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/ "PageSpeed Insights") to optimize the requests and reduce the page load time. I was able to reduce the page size around 400KB and http requests to around 40. This made a huge impact on the reading experience.
+[7] I used [GTmetrix](http://gtmetrix.com/ "GTMetrix") and [PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/ "PageSpeed Insights") to optimize the requests and reduce the page load time. I was able to reduce the page size around 400 KB and HTTP requests to around 40. This made a huge impact on the reading experience.
 
 [8] Analyzing user behaviors made me aware of different devices and screen sizes. This may seem no brainer but if you don't know where to look, it is hard to notice you have an issue. This helped me realize many readers use tablets and when they read it in vertical mode the reading suffered. I wasn't aware of it, but I fixed it now.
 
