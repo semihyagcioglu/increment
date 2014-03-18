@@ -12,7 +12,7 @@ Hacker News is a community where readers are mainly from tech world. If you subm
 
 **Comments**
 
-Time is the best thing a reader can offer you, among all other things. Readers simply use their valuable time to read what you wrote. As a reader, I would think — whatever I read — it must be worth it. Some readers, however, go beyond reading and help you improve your work by taking the time to make comments. I for myself, met with several amazing people by just sharing what I write. That being said, one of the commenters on Hacker News, took the time to fork my writing and proposed some changes for it. [[3](#3 "")] This was something I was not expecting. I also find interesting to see that sometimes there may be completely different angles. Here's a comment thread about one of my posts.
+Time is the best thing a reader can offer you, among all other things. Readers simply use their valuable time to read what you wrote. So, whatever you write, it must be worth your readers time. Some readers, however, go beyond reading and help you improve your work by taking the time to make comments. Thanks to this, I met with several amazing people. That being said, one of the commenters on Hacker News, took the time to fork my writing and proposed some changes for it. [[3](#3 "")] This was something I was not expecting. I also find interesting to see that sometimes there may be completely different angles. Here's a comment thread about one of my posts.
 
 — This is the saddest thing I've ever read. (moeedm)
 
@@ -66,4 +66,4 @@ This is why having an audience almost always matters.
 
 [8] Analyzing user behaviors made me aware of different devices and screen sizes. This may seem no brainer but if you don't know where to look, it is hard to notice you have an issue. This helped me realize many readers use tablets and when they read it in vertical mode the reading suffered. I wasn't aware of it, but I fixed it now.
 
-**Thanks** to Şirin Uzun Ulutaş, Yuval Shoshan, Mehmet Kordacı, Ergin Nalçacı and Sarp Centel for reading drafts of this.
+**Thanks** to Şirin Uzun Ulutaş, Mehmet Kordacı, Yuval Shoshan, Ergin Nalçacı and Sarp Centel for reading drafts of this.
