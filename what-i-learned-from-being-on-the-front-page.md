@@ -50,7 +50,7 @@ This is why having an audience almost always matters.
 
 [1] There is actually no guarantee here. It was what I experienced.
 
-[2] There are other factors, the base algorithm is [shared by Paul Graham](https://news.ycombinator.com/item?id=1781013 "Hacker News Ranking Algorithm")
+[2] There are other factors, the base algorithm is [shared by Paul Graham](https://news.ycombinator.com/item?id=1781013 "Hacker News Ranking Algorithm").
 
 [3] I draft my writings on GitHub and you may easily suggest styling or fix errata by just forking my repository.
 
