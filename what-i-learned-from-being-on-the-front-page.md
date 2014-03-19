@@ -32,7 +32,7 @@ The best part of having many readers is, you learn a lot in the process. One thi
 
 **Bias**
 
-There is a bias here. I am telling this story based on my experience. This doesn't necessarily mean that I was on the front page since my writing was great. This is just a postmortem. I am just telling this story because I wish I had known things before I made to the front page. I am sure that I lost several readers just because the reading experience sucked. I am sorry for that.
+There is a bias here. I am telling this story based on my experience. My being on the front page doesn't necessarily mean that I wrote a great post. This is just a postmortem. I am just telling this story because I wish I had known things before I made to the front page. I am sure that I lost several readers just because the reading experience sucked. I am sorry for that.
 
 **Conclusion**
 
